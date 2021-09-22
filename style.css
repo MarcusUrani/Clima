@@ -1,72 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
 body {
-    font-family: "Oswald", sans-serif;
-    background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png");
-    background-color: #000000;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  
-  header .container {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .page__title {
-    color: #ffffff;
-    margin: 0 0 5px;
-  }
-  
-  .page__logo {
-    width: 200px;
-  }
-  
-  .alura__logo {
-    width: 40px;
-    position: absolute;
-    top: 15px;
-    right: 15px;
-  }
-  
-  .page__subtitle {
-    color: #ffffff;
-    text-align: center;
-    margin-top: 20px;
-  }
-  
-  main .container {
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-  }
-  
-  .submit {
-    padding: 3px;
-    border-color: #7d0000;
-    background: #383838;
-    color: #ffffff;
-  }
-  
-  .submit:hover {
-    background: #7d0000;
-    border-color: #383838;
-  }
-  
-  .resultado {
-    text-align: center;
-    color: #fff;
-    margin-top: 20px;
-  }
-  
-  footer {
-    padding: 5px 0;
-    background: #383838;
-    width: 100%;
-    position: absolute;
-    text-align: center;
-    bottom: 0;
-    left: 0;
-    color: #fff;
-    font-size: 20px;
-  }
-  
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
