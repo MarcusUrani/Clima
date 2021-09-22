@@ -6,7 +6,7 @@
 body{  
    margin: 0;  
    font-family: "Poppins", sans-serif;  
-   background-color: linear-gradiet(300deg, #757b87, #909d9d);  
+   background-color:#e52165;  
    display: flex;  
    justify-content: center;  
    align-items: center;  
@@ -18,13 +18,18 @@ input{
    padding: 1rem;  
    border-radius: 25px;  
    border: none;  
-   background-color: #fff;  
+   background-color: #0d1137;  
    font-family: inherit;  
    box-shadow: 0 4px 10px rgba(0,0,0,0.2);  
    min-width: 300px;  
-   font-size: 1rem;  
+   font-size: 1rem;
+   color: #fff; 
 }  
- 
+
+::placeholder{
+   color: #fff;
+}
+
 input:focus{  
    outline: none;  
 }  
