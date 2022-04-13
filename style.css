@@ -1,3 +1,4 @@
+/*Global Style*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');  
  *{  
   box-sizing: border-box;
@@ -6,8 +7,8 @@
  }
 
  body{  
-  align-items: center;  
-  background-color: linear-gradiet(300deg, #757b87, #909d9d);  
+  align-items: center;
+  background: linear-gradient(130deg, rgba(85, 250, 255, 1) 25%, rgba(0, 212, 255, 1) 100%);
   display: flex;  
   font-family: "Poppins", sans-serif;  
   flex-direction: column;  
@@ -38,6 +39,8 @@
   outline: none;  
  }
 
+/*Components style*/
+
 .weather {
   text-align: center;
   font-size: 1.5rem;
@@ -67,4 +70,30 @@
 .main__error {
   font-size: 2.5rem;
   margin-top: 3rem;
+}
+
+.footer {
+  background-color: #1f1f1f;
+  bottom: 0;
+  padding: 1rem 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.footer__text {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.footer__link {
+  color: #fff;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: all ease .3s;
+}
+
+.footer__link:hover {
+  color: #afafaf;
+  text-decoration: underline;
 }
