@@ -30,7 +30,7 @@
 
 ## 👨🏻‍💻 Como usar?
 
-- Acesse a página pelo (link)[https://climatual.netlify.app].
+- Acesse a página pelo [link](https://climatual.netlify.app).
 
 - Digite o nome da cidade desejado no campo de busca e dê enter.
 
@@ -40,6 +40,6 @@
 
 - Marcus Vinícius Gomes Urani
 
-- (LinkedIn)[https://www.linkedin.com/in/marcusurani]
+- [LinkedIn](https://www.linkedin.com/in/marcusurani)
 
-- (Portfólio)[https://marcusurani.netlify.app]
+- [Portfólio](https://marcusurani.netlify.app)
