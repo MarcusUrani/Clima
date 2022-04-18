@@ -1,4 +1,4 @@
-# Clima (Completo)
+# Clima (Finalizado)
 
 - Projeto de um sistema de visualização de clima.
 
